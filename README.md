@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Maxmiller-Nunes/nps-api-nlw/ce0018504a75455981215a7e1278101e79edc00c/assets/images/logo.svg" alt="NPS API" width="280"/>
+   <img src="https://raw.githubusercontent.com/Maxmiller-Nunes/nlw-edition04/4f334b0d26a28f2d71a3a18b360dbad13b49202b/assets/images/logo.svg" alt="NPS API" width="280"/>
 </p>
 
 > <b>NPS API</b> é uma API criada utilizando NodeJS com Express e TypeScript durante a NLW#4 da [Rocketseat](https://github.com/Rocketseat). Esse projeto permite o calculo de NPS de uma empresa enviado por usuários via email.
@@ -10,7 +10,7 @@
   </sub>
 </div>
 
-<div align="center" style="margin-top: 16px" ><a href="https://insomnia.rest/run/?label=NPS%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2FMaxmiller-Nunes%2Fnps-api-nlw%2Fmain%2Fassets%2FInsomnia_2021-02-28.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a></div>
+<div align="center" style="margin-top: 16px" ><a href="https://insomnia.rest/run/?label=NPS%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2FMaxmiller-Nunes%2Fnlw-edition04%2Fmain%2Fassets%2FInsomnia_2021-02-28.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a></div>
 
 # :pushpin: Conteúdo
 
@@ -273,8 +273,8 @@ yarn dev
        <a href="https://www.linkedin.com/in/maxmiller-nunes-393871191/" title="Linkedin">@maxmillernunes</a>
     </td>
     <td align="center">
-      <a href="http://github.com/Maxmiller-Nunes/">
-        <img src="https://avatars.githubusercontent.com/u/40812823?v=4" width="100px;" alt="Maxmiller Nunes"/>
+      <a href="https://github.com/Rocketseat">
+        <img src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Rocketseat"/>
         <br />
         <sub>
           <b>Rocketseat</b>
